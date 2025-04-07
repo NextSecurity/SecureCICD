@@ -1,6 +1,5 @@
-# 🔐 SecureCICD — Approval Integrity Validator for CI/CD Pipelines
+# 🔐 SecureCICD — Integrity Validator for CI/CD Pipelines
 
-> A **NextSecurity** OSS project.  
 > ✅ Prevent self-approvals  
 > ✅ Detect reassigned approvals  
 > ✅ Enforce runtime approver validation
